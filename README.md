@@ -17,4 +17,4 @@ Authentication system built with **Next.js**, **MongoDB**, and **JWT**, featurin
 - bcrypt  
 - TailwindCSS  
 
-
+## UNDER PROGRESS
